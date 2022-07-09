@@ -79,7 +79,7 @@ _____
 ## 📓 당근마켓
 
 |              | `당근마켓`                                                   |
-| :----------: | ------------------------------------------------------------ |
+| :----------: | :----------------------------------------------------------- |
 | **자격요건** | -  <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span> <span style=background-color:lavender>#**JavaScript**</span> 익숙<br>- <span style=background-color:mediumaquamarine>#**TypeScript**</span> #Flow 등 JS 정적 타이핑 툴 경험 유<br>- <span style=background-color:plum>#**React.js**</span> 프로젝트 개발 경험 유<br>- Redux 등 상태 관리 패턴 사용 경험 유<br>- 서버 개발자, 디자인 직군과 원활히 소통하는 능력 갖춘 사람 |
 | **우대사항** | - Relay, GraphQL 사용 경험 유<br>- Webpack, Rollup 등 모듈 번들러에 대한 이해 깊으신 분<br>- <span style=background-color:lightskyblue>#**Next.js**</span>등 SPA Framework을 이용한 SSR 프로젝트 경험 유<br>- 모바일 또는 반응형 웹 개발 경험 유<br>- 오픈소스 Contribution 경험 유<br>- UI/UX 개선과 관련된 고민 좋아하는 사람<br>- 새로운 기술에 대한 관심, 성장 위해 노력하는 분 |
 
@@ -88,7 +88,7 @@ _____
 ## 📓 유섭
 
 |              | `유섭`                                                       |
-| :----------: | ------------------------------------------------------------ |
+| :----------: | :----------------------------------------------------------- |
 | **자격요건** | - <span style=background-color:lavender>#**JavaScript**</span> <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span>에 대한 이해가 있으신 분<br/>- <span style=background-color:lightskyblue>#**Next.js**</span> <span style=background-color:plum>#**React**</span>개발 경험이 있으신 분 <br/>- *Git*을 올바르게 사용하고 이를 통한 협업이 가능하신 분 |
 | **우대사항** | - Redux 등 상태 관리 라이브러리를 사용한 경험이 있으신 분 <br/>- 디자이너와 함께 협업을 통해 서비스 개발 경험이 있으신 분<br/>- 팀 리드 경험이 있으신 분<br/>- 기본 영어 의사소통이 가능하신 분 |
 
@@ -97,7 +97,7 @@ _____
 ## 📓 라인
 
 |              | `라인`                                                       |
-| :----------: | ------------------------------------------------------------ |
+| :----------: | :----------------------------------------------------------- |
 | **자격요건** | \- <span style=background-color:lavender>#**JavaScript**</span> <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span>를 다루며 내부 동작 원리에 대한 관심이 있는 분<br>\- *Git*을 이용한 코드 형상관리와 코드 리뷰 경험이 있는 분<br>\- Babel를 이용한 ES6+ 스펙의 사용 경험이 있는 분<br>\- <span style=background-color:plum>#**React**</span> <span style=background-color:antiqueWhite>#**Vue**</span> <span style=background-color:cyan>#**Angular**</span>등 MV*기반의 Framework을 이용한 실무 경험이 있는 분<br>\- Backend, Network, Database에 대한 기초적인 이해가 있는 분<br>\- 해외 출장 및 근무 가능하신 분 |
 | **우대사항** | \- #**Node.js** 개발 경험이 있는 분<br>\- React Native 개발 경험이 있는 분<br>\- Javascript 오픈 소스에 기여 경험이 있는 분<br>\- 글로벌 서비스 개발 경험이 있는 분<br>\- 외국어로 업무 진행이 가능한 분 (영어, 일본어 등) |
 
@@ -106,7 +106,7 @@ _____
 ## 📓 STAGE FIVE
 
 |              | `STAGE FIVE`                                                 |
-| :----------: | ------------------------------------------------------------ |
+| :----------: | :----------------------------------------------------------- |
 | **자격요건** | - React Framework를 활용한 개발 경험<br/>- Javascript 프레임워크(<span style=background-color:plum>#**React**</span> <span style=background-color:cyan>#**Angular**</span> <span style=background-color:antiqueWhite>#**Vue**</span>, etc)를 사용한 경험<br/>- ECMAScript 2015(ES6) 이상의 스펙 사용 가능하신 분<br/>- <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span> <span style=background-color:lavender>#**Javascript**</span>에 대한 이해가 깊은 분<br/>- 원활한 커뮤니케이션 능력 |
 | **우대사항** | - HTTP, RESTful API에 대한 이해가 있으신 분<br/>- 코드 리뷰에 거부감이 없는 분<br/>- 네이티브앱 내 웹뷰 관련 작업 경험이 있으신 분<br/>- AWS(Amazon Web Service)를 이용한 서비스 경험이 있으신 분 |
 
@@ -115,7 +115,7 @@ _____
 ## 📓 해줌
 
 |              | `해줌`                                                       |
-| ------------ | ------------------------------------------------------------ |
+| ------------ | :----------------------------------------------------------- |
 | **자격요건** | - 주요 프론트 기술(<span style=background-color:pink>#**HTML **</span> <span style=background-color:palegreen> #**CSS** </span> <span style=background-color:lavender>#**JavaScript**</span>)사용에 익숙하신 분<br/>- 객체지향, 함수형 프로그래밍에 대한 기본적인 이해가 있으신 분<br/>- 주요 프론트 라이브러리(<span style=background-color:plum>#**React**</span> <span style=background-color:antiqueWhite>#**Vue** </span><span style=background-color:cyan>#**Angular**</span>)를 사용한 개발 경험이 있으신 분 |
 | **우대사항** | - UI/UX 개선과 관련된 고민을 좋아 하시는 분<br/>- 주요 UI컴포넌트( Button, ComboBox, List, ScrollBar, Grid)구현 경험<br/>- 서버 개발자, 디자인 직군과 원활히 소통하는 능력<br/>- 새로운 기술에 관심이 많고, 자기 개발을 위해 노력하시는 분<br/>- 반응형 웹 개발 경험 |
 
