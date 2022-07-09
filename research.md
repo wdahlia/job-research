@@ -4,16 +4,39 @@
 
 <br>
 
-#### 📓 1 .레몬베이스, 포자랩스
+
+
+
+
+|                                      | <span style=background-color:pink>HTML</span> | <span style=background-color:palegreen>CSS</span> | <span style=background-color:lavender>JavaScript</span> | <span style="background-color:plum">React</span> | <span style=background-color:antiqueWhite>Vue</span> | <span style=background-color:cyan>Angular</span> | <span style=background-color:mediumaquamarine>TypeScript</span> | <span style=background-color:lightskyblue>Next.js</span> | Node.js |
+| -----------------------------------: | :-------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------: | :-----: |
+| [레몬베이스](#-레몬베이스--포자랩스) |                      👊🏻                       |                        👊🏻                         |                           👊🏻                            |                        👊🏻                        |                          👊🏻                          |                        👊🏻                        |                              👊🏻                              |                                                          |         |
+|                           `포자랩스` |                      👊🏻                       |                        👊🏻                         |                           👊🏻                            |                        👊🏻                        |                                                      |                                                  |                              👊🏻                              |                            👊🏻                            |         |
+|              [패스오더](#📓-패스오더) |                      👊🏻                       |                        👊🏻                         |                           👊🏻                            |                        👊🏻                        |                                                      |                        👊🏻                        |                                                              |                                                          |         |
+|                     `카카오모빌리티` |                      👊🏻                       |                         ✅                         |                           👊🏻                            |                        ✅                         |                                                      |                        ✅                         |                              ✅                               |                            ✅                             |         |
+|                               `토스` |                                               |                                                   |                                                         |                                                  |                                                      |                                                  |                                                              |                                                          |         |
+|                           `당근마켓` |                                               |                                                   |                                                         |                                                  |                                                      |                                                  |                                                              |                                                          |         |
+|                               `유섭` |                                               |                                                   |                                                         |                                                  |                                                      |                                                  |                                                              |                                                          |         |
+|                               `라인` |                                               |                                                   |                                                         |                                                  |                                                      |                                                  |                                                              |                                                          |         |
+|                         `STAGE FIVE` |                                               |                                                   |                                                         |                                                  |                                                      |                                                  |                                                              |                                                          |         |
+|                               `해줌` |                                               |                                                   |                                                         |                                                  |                                                      |                                                  |                                                              |                                                          |         |
+
+토글 구성 -> job research 중 현재 프론트엔드에 가장 많이 사용되는 언어 정리!
+
+로드맵파일도 첨부
+
+[패스오더](#📓-패스오더)
+
+## 📓 레몬베이스 / 포자랩스 
 
 |              | `레몬베이스`                                                 | `포자랩스`                                                   |
 | :----------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| **자격요건** | - <span style="background-color:plum">#**React**</span> <span style=background-color:antiqueWhite>#**Vue**</span> #**Angular**등에 대한 충분한 이해<br>- <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span> <span style=background-color:lavender>#**JavaScript**</span>에 대한 충분한 이해도<br>- 자료구조, 알고리즘, 네트워크 등 전산 지식을 활용 문제해결 능력 보유<br>- 하나의 서비스를 개발하고 지속적으로 개선한 경험 O<br>- 고객의 관점에서 생각하고 이를 제품에 반영하려는 태도 지닌 분<br>- 좋은 UI/UX에 대해 높은 가치를 두는 태도 지닌 분 | - <span style=background-color:plum>#**React**</span> 개발에 익숙<br>- <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span> <span style=background-color:lavender>#**JavaScript**</span> <span style=background-color:mediumaquamarine>#**TypeScript**</span>를 이해, 활용<br>- Redux, Recoil 등을 이용한 상태 관리 패턴에 익숙<br>- *Git*을 이용한 개발 경험 |
+| **자격요건** | 📓- <span style="background-color:plum">#**React**</span> <span style=background-color:antiqueWhite>#**Vue**</span> <span style=background-color:cyan>#**Angular**</span>등에 대한 충분한 이해<br>- <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span> <span style=background-color:lavender>#**JavaScript**</span>에 대한 충분한 이해도<br>- 자료구조, 알고리즘, 네트워크 등 전산 지식을 활용 문제해결 능력 보유<br>- 하나의 서비스를 개발하고 지속적으로 개선한 경험 O<br>- 고객의 관점에서 생각하고 이를 제품에 반영하려는 태도 지닌 분<br>- 좋은 UI/UX에 대해 높은 가치를 두는 태도 지닌 분 | - <span style=background-color:plum>#**React**</span> 개발에 익숙<br>- <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span> <span style=background-color:lavender>#**JavaScript**</span> <span style=background-color:mediumaquamarine>#**TypeScript**</span>를 이해, 활용<br>- Redux, Recoil 등을 이용한 상태 관리 패턴에 익숙<br>- *Git*을 이용한 개발 경험 |
 | **우대사항** | - 서버 사이드 개발 경험 혹은 백엔드에 대한 기본적인 이해<br>- SPA 기반의 웹 서비스 개발 경험 보유<br>- <span style=background-color:mediumaquamarine>#**TypeScript**</span> #Flow 등의 정적 타입 언어 개발 경험을 가지고 계신 분 | - 반응형 웹 개발 경험 O<br>- WebAudio API 사용 경험 O <br>- <span style=background-color:lightskyblue>#**Next.js**</span> 등 SSR 개발 경험 O<br>- React Query 등과 같은 SWR 사용 경험<br>- UI/UX에 관심<br>- 새로운 기술에 관심, 꾸준히 공부 |
 
 <br>
 
-#### 📓 2. 패스오더
+## 📓 패스오더
 
 |              | `패스오더`                                                   |
 | :----------: | :----------------------------------------------------------- |
@@ -33,10 +56,10 @@
 
 #### 📓 4. 토스
 
-|              | `토스`                                                       |      |
-| :----------: | :----------------------------------------------------------- | ---- |
-| **자격요건** | - <span style=background-color:plum>#**React**</span> <span style=background-color:antiqueWhite>#**Vue**</span> <span style=background-color:cyan>#**Angular**</span> 등 SPA 프레임워크 사용에 능숙하신 분을 찾습니다.<br/>- <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span>, <span style=background-color:lavender>#**JavaScript**</span>에 대한 이해가 깊은 분을 찾습니다.<br/>- UI/UX에 대해 높은 가치를 두고 있는 분을 찾습니다.<br/>- *Git* 등의 분산 버전 관리 시스템 이용에 능숙한 분을 찾습니다. |      |
-| **우대사항** | - <span style=background-color:mediumaquamarine>#**TypeScript**</span>, Flow를 이용한 JavaScript 정적 타입 분석 경험이 있는 분이면 좋습니다.<br/>- 서버 사이드 렌더링(SSR) 및 모바일 앱 내 웹앱 개발 경험이 있는 분이면 좋습니다.<br/>- 반응형 디자인, 웹 접근성, 웹 표준을 고려한 UI 개발 경험이 있는 분이면 좋습니다.<br/>- 테스트 및 배포 자동화 경험이 있는 분이면 좋습니다.<br/>- Webpack 등 모듈 번들러를 능숙하게 사용하시는 분이면 좋습니다. |      |
+|              | `토스`                                                       |
+| :----------: | :----------------------------------------------------------- |
+| **자격요건** | - <span style=background-color:plum>#**React**</span> <span style=background-color:antiqueWhite>#**Vue**</span> <span style=background-color:cyan>#**Angular**</span> 등 SPA 프레임워크 사용에 능숙하신 분을 찾습니다.<br/>- <span style=background-color:pink>#**HTML**</span> <span style=background-color:palegreen>#**CSS**</span>, <span style=background-color:lavender>#**JavaScript**</span>에 대한 이해가 깊은 분을 찾습니다.<br/>- UI/UX에 대해 높은 가치를 두고 있는 분을 찾습니다.<br/>- *Git* 등의 분산 버전 관리 시스템 이용에 능숙한 분을 찾습니다. |
+| **우대사항** | - <span style=background-color:mediumaquamarine>#**TypeScript**</span>, Flow를 이용한 JavaScript 정적 타입 분석 경험이 있는 분이면 좋습니다.<br/>- 서버 사이드 렌더링(SSR) 및 모바일 앱 내 웹앱 개발 경험이 있는 분이면 좋습니다.<br/>- 반응형 디자인, 웹 접근성, 웹 표준을 고려한 UI 개발 경험이 있는 분이면 좋습니다.<br/>- 테스트 및 배포 자동화 경험이 있는 분이면 좋습니다.<br/>- Webpack 등 모듈 번들러를 능숙하게 사용하시는 분이면 좋습니다. |
 
 <br>
 
