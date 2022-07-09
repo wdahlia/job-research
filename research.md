@@ -8,7 +8,7 @@
 
 - [codenary](https://www.codenary.co.kr/company/list)
 
-![스크린샷 2022-07-09 오후 9.10.31](research.assets/스크린샷 2022-07-09 오후 9.10.31-7368691.png)
+![스크린샷 2022-07-09 오후 9.10.31](https://user-images.githubusercontent.com/108653518/178105248-4c44765e-f6c4-46dc-a18d-6434a0f09490.png)
 
 ## 프론트엔드 개발자 로드맵
 
